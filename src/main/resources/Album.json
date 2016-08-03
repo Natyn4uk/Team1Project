@@ -1,0 +1,43 @@
+[
+  {
+    "singer" : "Clint Mansell",
+    "song" : "Lux Aeterna",
+    "duration" : "12:55"
+
+  },
+
+  {
+    "singer" : "Sting",
+    "song" : "Shape of my heart",
+    "duration" : "7:55"
+
+  },
+
+  {
+    "singer" : "Depeche Mode ",
+    "song" : "Enjoy the Silence",
+    "duration" : "11:25"
+
+  },
+
+  {
+    "singer" : "Florence and the Machine",
+    "song" : "No Light, No Light",
+    "duration" : "10:75"
+
+  },
+
+  {
+    "singer" : "Enigma",
+    "song" : "Gravity Of Love",
+    "duration" : "8:35"
+
+  },
+
+  {
+    "singer" : "Metallica",
+    "song" : "Nothing Else Matters",
+    "duration" : "7:25"
+
+  }
+]
